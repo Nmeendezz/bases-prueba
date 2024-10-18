@@ -1,6 +1,7 @@
 # bases-prueba
 Esta es la descripcion del proyecto
 
+`
 Puedes ver [mis notas](/directorio/mis-notas.md)
 ![La mejor imagen de Linux](messi.jpeg)
 
