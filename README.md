@@ -32,7 +32,7 @@ CREATE TABLE gatito (
 
 Tambien si intentamos con varios espacios
 
-      CREATE TABLE tabla (
+       CREATE TABLE tabla (
            a INT
      );
 ```
